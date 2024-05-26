@@ -1,4 +1,7 @@
 # Simple Calendar with Time
+
+### Please follow the link for a live preview :- https://stupendous-concha-f05313.netlify.app/
+
 This is a simple web application that displays a calendar with the current date highlighted and includes a real-time clock showing hours, minutes, and seconds. The design is minimalistic and visually appealing, making it suitable for embedding into websites or using as a standalone tool.
 
 ## Features:
