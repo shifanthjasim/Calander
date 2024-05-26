@@ -1,12 +1,12 @@
-#Simple Calendar with Time
+# Simple Calendar with Time
 This is a simple web application that displays a calendar with the current date highlighted and includes a real-time clock showing hours, minutes, and seconds. The design is minimalistic and visually appealing, making it suitable for embedding into websites or using as a standalone tool.
 
-##Features:
+## Features:
 Calendar Display: View the current month with the current date highlighted.
 Real-time Clock: Shows the current time with hours, minutes, and seconds in 12-hour format.
 Contact: Includes a link to the developer's GitHub profile for easy communication and feedback.
 
-##Technologies Used:
+## Technologies Used:
 
 HTML
 CSS
